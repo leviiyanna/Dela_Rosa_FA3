@@ -21,7 +21,7 @@ h1 {
 /*Styling the paragraph (p) */
 p {
        text-align: justify;
-	background-color: #7EA2B4;
+	background-color: hsl(200, 26%, 60%);
         font-family: "Times New Roman";
 	padding: 20px;
 	border-width: 3px 10px 3px 5px;
@@ -35,4 +35,4 @@ p {
 span {
 	font-weight: bold;
 	font-style: "Times New Roman";
-        color: #0B1919;
+        color: rgb(11, 25, 25);
